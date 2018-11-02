@@ -1,0 +1,11 @@
+<events><event><date_header>Oct 1</date_header>
+<event_category>Art/Comedy</event_category>
+<event_header>here's a header</event_header>
+<event_body>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat dolorem quisquam quidem neque, in quam incidunt, praesentium aspernatur est eveniet voluptate modi, delectus libero reiciendis recusandae repudiandae molestiae reprehenderit quasi voluptatibus laboriosam cupiditate ipsum. Nihil sunt, iste porro provident laborum voluptatibus ab cupiditate, veniam impedit. Doloribus sapiente, accusantium quod omnis.</event_body>
+<event_address>1234 Main St.</event_address>
+<event_footer>12pm • Free</event_footer></event>
+<event><event_category>Art/Comedy</event_category>
+<event_header>here's a header</event_header>
+<event_body>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat dolorem quisquam quidem neque, in quam incidunt, praesentium aspernatur est eveniet voluptate modi, delectus libero reiciendis recusandae repudiandae molestiae reprehenderit quasi voluptatibus laboriosam cupiditate ipsum. Nihil sunt, iste porro provident laborum voluptatibus ab cupiditate, veniam impedit. Doloribus sapiente, accusantium quod omnis.</event_body>
+<event_address>1234 Main St.</event_address>
+<event_footer>12pm • Free</event_footer></event></events>
